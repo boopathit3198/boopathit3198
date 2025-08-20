@@ -5,9 +5,6 @@
 **email :** boopathit@anthology.com / 
 **slack :** Boopathi T
 
-## 🌐 Contact Page
-Visit my [contact page](contact.html) for a complete contact form and all available contact methods.
-
 <!---
 boopathit3198/boopathit3198 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
